@@ -8,6 +8,19 @@ body.dark-mode{
     background-color:#2d2d2d;
 }
 
+.image{
+    background-color: #137a7f;
+    border: none;
+    border-radius: 12px;
+    height: 25%;
+    width: 25%;
+    transition-duration: 0.4s;
+}
+.image:hover{
+    height: 50%;
+    width: 50%;
+}
+
 .dlButton{
     background-color:#e12885;
     border: none;
