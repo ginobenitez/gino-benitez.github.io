@@ -1,0 +1,93 @@
+
+body.light-mode{
+    color: black;
+    background-color:aliceblue;
+}
+body.dark-mode{
+    color: aliceblue;
+    background-color:#2d2d2d;
+}
+
+.dlButton{
+    background-color:#e12885;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    display: inline-block;
+   text-align: right;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: 'Handjet', Bold;
+    font-size: 25px;
+
+}
+.linkedInButton:hover{
+    background-color: white;
+    color:black;
+    font-size: 30px;
+}
+
+.linkedInButton{
+    background-color: #137a7f;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    display: inline-block;
+   text-align: right;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: 'Handjet', Bold;
+    font-size: 25px;
+
+}
+.dlButton:hover{
+    background-color: white;
+    color:black;
+    font-size: 30px;
+}
+
+.gitHubButton:hover{
+    background-color: white;
+    color:black;
+    font-size: 30px;
+}
+
+.gitHubButton{
+    background-color:	#86cecb;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    display: inline-block;
+   text-align: right;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: 'Handjet', Bold;
+    font-size: 25px;
+
+}
+
+.projectsButton:hover{
+    background-color: white;
+    color:black;
+    font-size: 30px;
+}
+
+.projectsButton{
+    background-color:	#bec8d1;
+    border: none;
+    border-radius: 12px;
+    color: white;
+    display: inline-block;
+   text-align: right;
+    transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-family: 'Handjet', Bold;
+    font-size: 25px;
+
+}
+
+.all{
+    text-align: center;
+    font-family: 'Handjet', Bold;
+    font-size: 25px;
+}
